@@ -2,6 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+import { createBrowserHistory } from 'history'; 
+export default createBrowserHistory();
+
 In the project directory, you can run:
 
 ### `npm start`
